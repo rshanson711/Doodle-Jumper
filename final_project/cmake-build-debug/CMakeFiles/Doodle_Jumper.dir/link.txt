@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Doodle_Jumper.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\Doodle_Jumper.dir/objects.a @CMakeFiles\Doodle_Jumper.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Doodle_Jumper.dir/objects.a -Wl,--no-whole-archive -o Doodle_Jumper.exe -Wl,--out-implib,libDoodle_Jumper.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Doodle_Jumper.dir\linklibs.rsp

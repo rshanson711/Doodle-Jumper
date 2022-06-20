@@ -1,0 +1,13 @@
+---
+:id: 127792406
+:submitters:
+- :name: Ray Solomon Hanson
+  :email: rayhanson2025@u.northwestern.edu
+- :name: Hunter James Cordes
+  :email: huntercordes2025@u.northwestern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-06-03 21:59:23.142948000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-06-03 14:59:23.142948000 Z
+:status: processed
